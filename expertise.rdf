@@ -1,0 +1,10 @@
+<rdf:RDF
+  xmlns:researchee="http://wirtrials.app.web/researchee#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://wirtrials.app.web/researchee#expertise1">
+  <researchee:name>Web engineering</researchee:name>
+ </rdf:Description>
+  <rdf:Description rdf:about="http://wirtrials.app.web/researchee#expertise2">
+  <researchee:name>Web engineering 2</researchee:name>
+ </rdf:Description>
+</rdf:RDF>
