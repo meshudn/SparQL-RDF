@@ -17,17 +17,17 @@
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise3"/>
  </rdf:Description>
  <rdf:Description rdf:about="http://wirtrials.app.web/researchee#researcher4">
-   <researchee:name>Martin JOn</researchee:name>
+   <researchee:name>Martin John</researchee:name>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise1"/>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise3"/>
  </rdf:Description>
  <rdf:Description rdf:about="http://wirtrials.app.web/researchee#researcher5">
-   <researchee:name>Martin Jini</researchee:name>
+   <researchee:name>Martin Paul</researchee:name>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise1"/>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise3"/>
  </rdf:Description>
  <rdf:Description rdf:about="http://wirtrials.app.web/researchee#researcher6">
-   <researchee:name>Martin Pagla</researchee:name>
+   <researchee:name>Martin Martin</researchee:name>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise1"/>
    <researchee:hasExpertise rdf:resource="http://wirtrials.app.web/researchee#expertise3"/>
  </rdf:Description>
